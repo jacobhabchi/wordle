@@ -1,8 +1,5 @@
 """
-Wordle
-Assignment 1
-Semester 1, 2022
-CSSE1001/CSSE7030
+Wordle Game (Text-Based UI)
 """
 
 from string import ascii_lowercase
@@ -21,8 +18,8 @@ from wordle_support import (
 )
 
 
-__author__ = "Jacob Habchi, s4744706"
-__email__ = "j.habchi@uqconnect.edu.au"
+__author__ = "Jacob Habchi"
+__email__ = "jacobhabchi11@hotmail.com"
 
 
 
